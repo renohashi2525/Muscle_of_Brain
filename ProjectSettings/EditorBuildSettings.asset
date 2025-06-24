@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/0.Test/ButtonTest.unity
     guid: a44439717a68af243957c2d77eb1bbb7
+  - enabled: 1
+    path: Assets/Scenes/1.Title/Title.unity
+    guid: 9d65fa89be6c0264e8e71e224f441bbf
+  - enabled: 1
+    path: Assets/Scenes/2.Home/Home.unity
+    guid: 7dd8ef64114e0484997efd5f6e200ec3
+  - enabled: 1
+    path: Assets/Scenes/4.Stage/StageSelect.unity
+    guid: f2eaa7ded19b90e4fb2ef72afd36fbcb
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5a4e7877f103eb744a8ca18bbed258cd, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
